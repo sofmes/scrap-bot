@@ -1,3 +1,2 @@
 # scrap-bot
-
-Describe your project here.
+メンバー不足のため、凍結したプロジェクト。後継のプロジェクトを髙木 祐来が運用中。
